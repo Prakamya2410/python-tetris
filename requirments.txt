@@ -1,1 +1,3 @@
 pygame module
+to install open terminal and type=
+pip install pygame
